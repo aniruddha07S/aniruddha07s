@@ -138,11 +138,7 @@ class AniruddhaSutawane:
 
 ---
 
-## 🏆 GitHub Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aniruddha07s&theme=algolia&no-frame=false&no-bg=false&margin-w=4&column=7" width="100%" />
-</div>
 
 ---
 
